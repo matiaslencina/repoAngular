@@ -57,7 +57,7 @@ export class Comp1Component {
     
 
     onClick(nombre: string){
-      console.log(`hola ${nombre}`);
+      console.log(`hola ${nombre}`); 
     }
     
 }
